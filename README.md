@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+Advanced tidymodels
 ================
 
 ### posit::conf 2023
